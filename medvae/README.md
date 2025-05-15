@@ -9,6 +9,7 @@ pip install torch jupyter numpy matplotlib
 ```
 Then, install the medvae package.
 ```bash
+git clone https://github.com/StanfordMIMI/MedVAE.git`
 cd MedVAE
 pip install -e .
 ```
