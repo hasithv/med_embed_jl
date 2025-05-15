@@ -1,0 +1,11 @@
+row_nr,image_uuid,split
+0,sino_400_1583,val
+1,sino_617_6315,train
+2,sino_6680_5500,test
+3,sino_3803_3375,train
+4,sino_7858_0398,train
+5,sino_1204_4454,train
+6,sino_2273_6490,train
+7,sino_809_7964,train
+8,sino_1781_4424,train
+9,sino_6620_6028,test

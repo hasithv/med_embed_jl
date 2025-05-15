@@ -1,0 +1,8 @@
+row_nr,image_uuid,split
+0,t1habs_case_0526,train
+1,t1oasis_case_4078,test
+2,t1oasis_case_1286,train
+3,t1adni_case_1819,test
+4,t1adni_case_0209,val
+5,t1habs_case_0178,train
+6,t1oasis_case_0316,train
